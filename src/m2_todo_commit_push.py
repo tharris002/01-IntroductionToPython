@@ -107,20 +107,16 @@ print('Hello, World')
 #   and Sync Changes adds the changed work into your Github repository in 
 #   the "cloud".
 #
-#   PyCharm forces you to add a  Commit  message intended to describe
-#   your work to teammates, but until your team project use   Done
-#   or whatever you want for the  Commit  message.
+#   VS Code forces you to add a  Commit  message intended to describe
+#   your work to teammates, but until your team project you can use very
+#   simple commit messages.
 #
-#   Always PUSH (in addition to the COMMIT) so that your work is backed-up
-#   in the cloud, and also so that your instructor can access it as needed.
-#   If you COMMIT but forget to PUSH, you can subsequently do the PUSH by:
-#      VCS ~ Git ~ Push...
+#   Always Sync Changes (in addition to the COMMIT) so that your work is
+#   backed-up in the cloud, and also so that your instructor can access it
+#   as needed.
 #
-#   Oh, one more thing:
-#     Do you have any blue bars on the scrollbar-like thing to the right?
-#     If so, click on each blue bar and change its TO-DO to DONE,
-#     then run the file (to make sure you didn't break anything)
-#     and COMMIT-and-PUSH again.
+#   Don't forget to check your TO-DOs before you are done and always run your
+#   code one last time before you are done to make sure nothing is broken.
 #
 #   You can COMMIT-and-PUSH as often as you like.  DO IT FREQUENTLY.
 #
