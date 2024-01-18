@@ -77,7 +77,7 @@ print('Hello, World')
 #   Let the computer do the arithmetic for you.
 #   You do NOT have to use strings for this, so no quotation marks!
 #   This is a bit of a preview for next week but see if you can figure it out
-#   based on the examples in m1e.
+#   based on the examples in m1e. (HINT: try this operator *)
 #
 #   TEST your code by re-running this module, then asking someone: What number
 #   did your   print   display for this TO-DO? You can also check your answer
