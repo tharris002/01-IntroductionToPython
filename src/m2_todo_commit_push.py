@@ -1,5 +1,5 @@
 print('Hello, World')
-
+print('Hamburger') 
 ###############################################################################
 #
 #   This line is a COMMENT -- a note to the person reading this file.
@@ -17,7 +17,7 @@ print('Hello, World')
 
 ###############################################################################
 #
-# TODO: 1.
+# DONE: 1.
 #   The TO-DO comment above this one indicates that there is something for
 #   you to do.
 #
@@ -33,7 +33,7 @@ print('Hello, World')
 
 ###############################################################################
 #
-# TODO: 2.
+# DONE: 2.
 #
 #   Notice that TODO's turn blue even inside of comments. This helps you
 #   find them easier when you are looking for what you still need to do.
@@ -58,7 +58,7 @@ print('Hello, World')
 
 ###############################################################################
 #
-# TODO: 3.
+# DONE: 3.
 #   Add another   print   statement below the current Line 1 above.
 #   It should print any string that you want.
 #
@@ -68,10 +68,10 @@ print('Hello, World')
 #   the Run window to be sure that your string printed as expected.
 #
 ###############################################################################
-
+print(3607* 34227)
 ###############################################################################
 #
-# TODO: 4.
+# DONE: 4.
 #   Add yet another   print   statement.
 #   This one should print the *product* of 3,607 and 34,227.
 #   Let the computer do the arithmetic for you.
@@ -88,7 +88,7 @@ print('Hello, World')
 
 ###############################################################################
 #
-# TODO: 5.
+# DONE: 5.
 #   Look at the list of files in the Project window (to the left).  Note that
 #   this file (m2_todo_and_commit_push.py) now has a 'U' next to it.
 #
